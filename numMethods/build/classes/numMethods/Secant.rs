@@ -1,0 +1,2 @@
+numMethods.Secant
+Secant
